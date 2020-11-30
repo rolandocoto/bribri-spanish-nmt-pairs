@@ -2,9 +2,13 @@
 
 El documento CSV contiene pares de oraciones en español y en la lengua chibcha bribri, hablada por aproximadamente 3000 personas en el sur de Costa Rica.
 
+Las oraciones en bribri están en un formato especial para intentar uniformar las diferentes ortografías existentes. (En el futuro se subirá un archivo para convertir estas oraciones de entrenamiento a una forma ortográfica regular).
+
 # Bribri-Spanish Sentence Pairs
 
 The CSV document contains pairs of sentences in Spanish and in the Chibchan language Bribri, spoken by approximately 3000 people in Southern Costa Rica.
+
+The Bribri sentences are in a special format to try to create a uniform training set from the different orthographies in use. (In the future there will be a script to convert these training sentences into a regular orthographic form).
 
 Fuentes / Sources
 ------
