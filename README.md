@@ -2,7 +2,7 @@
 
 El documento CSV contiene pares de oraciones en español y en la lengua chibcha bribri, hablada por aproximadamente 3000 personas en el sur de Costa Rica. Para usar estos datos por favor cite el siguiente artículo:
 
-> Feldman & Coto-Solano (2020). Neural Machine Translation Models with Back-Translation for the Extremely Low-Resource Indigenous Language Bribri. CoLing.
+> Feldman, Isaac & Coto-Solano, Rolando (2020). Neural Machine Translation Models with Back-Translation for the Extremely Low-Resource Indigenous Language Bribri. CoLing.
 
 El documento CSV contiene las siguientes columnas:
 
@@ -22,7 +22,7 @@ El documento CSV contiene las siguientes columnas:
 
 The CSV document contains pairs of sentences in Spanish and in the Chibchan language Bribri, spoken by approximately 3000 people in Southern Costa Rica. If you are going to use the data, please cite the following paper:
 
-> Feldman & Coto-Solano (2020). Neural Machine Translation Models with Back-Translation for the Extremely Low-Resource Indigenous Language Bribri. CoLing.
+> Feldman, Isaac & Coto-Solano, Rolando (2020). Neural Machine Translation Models with Back-Translation for the Extremely Low-Resource Indigenous Language Bribri. CoLing.
 
 The CSV file has the following columns:
 
