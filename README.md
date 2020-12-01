@@ -2,20 +2,33 @@
 
 El documento CSV contiene pares de oraciones en español y en la lengua chibcha bribri, hablada por aproximadamente 3000 personas en el sur de Costa Rica. El documento contiene las siguientes columnas:
 
-``: d
-``: d
-``: d
-``: d
-``: d
-``: d
+`id`: Número de la oración
 
-Las oraciones en bribri están en un formato especial para intentar uniformar las diferentes ortografías existentes. El documento `orthographic-conversion.csv` contiene detalles de cómo convertir la ortografía en la columna `Source` a los dos estándares ortográficos existentes (basados en Constenla 1998 y Jara Murillo 2013).
+`Source`: Oración en bribri. Las oraciones están en una transcripción especial para intentar uniformar las diferentes ortografías existentes. El documento `orthographic-conversion.csv` contiene detalles de cómo convertir la ortografía de entrenamiento a los dos estándares ortográficos existentes (basados en Constenla 1998 y Jara Murillo 2013).
+
+`Target`: Oración en español
+
+`Reference`: Fuente de la oración
+
+`Orig-Nasal-As-Line`: Oración en la forma ortográfica original, si esta fue tomada de un libro que marque las vocales nasales con una línea debajo.
+
+`Orig-Nasal-As-Tilde`: Oración en la forma ortográfica original, si esta fue tomada de un libro que marque las vocales nasales con una vírgula ("cola de la eñe").
 
 # Bribri-Spanish Sentence Pairs
 
 The CSV document contains pairs of sentences in Spanish and in the Chibchan language Bribri, spoken by approximately 3000 people in Southern Costa Rica.
 
-The Bribri sentences are in a special format to try to create a uniform training set from the different orthographies in use. The document `orthographic-conversion.csv` has details of how to convert the training sentences in the `source` column to the two existing orthographic standards (based on Constenla 1998 y Jara Murillo 2013).
+`id`: Number of the sentence
+
+`Source`: Sentence in Bribri. The sentences are in a special transcription format to try to create a uniform training set from the different orthographies in use. The document `orthographic-conversion.csv` has details of how to convert the training sentences to the two existing orthographic standards (based on Constenla 1998 y Jara Murillo 2013).
+
+`Target`: Sentence in Spanish
+
+`Reference`: Source of the sentence
+
+`Orig-Nasal-As-Line`: Sentence in the original orthographic form, if the sentence was taken from a book that marks nasal vowels with a line underneath.
+
+`Orig-Nasal-As-Tilde`: Sentence in the original orthographic form, if the sentence was taken from a book that marks nasal vowels with a tilde.
 
 Fuentes / Sources
 ------
