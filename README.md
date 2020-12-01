@@ -1,6 +1,13 @@
 # Pares de oraciones en bribri-español
 
-El documento CSV contiene pares de oraciones en español y en la lengua chibcha bribri, hablada por aproximadamente 3000 personas en el sur de Costa Rica.
+El documento CSV contiene pares de oraciones en español y en la lengua chibcha bribri, hablada por aproximadamente 3000 personas en el sur de Costa Rica. El documento contiene las siguientes columnas:
+
+``: d
+``: d
+``: d
+``: d
+``: d
+``: d
 
 Las oraciones en bribri están en un formato especial para intentar uniformar las diferentes ortografías existentes. El documento `orthographic-conversion.csv` contiene detalles de cómo convertir la ortografía en la columna `Source` a los dos estándares ortográficos existentes (basados en Constenla 1998 y Jara Murillo 2013).
 
