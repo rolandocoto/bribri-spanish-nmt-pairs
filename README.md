@@ -46,7 +46,7 @@ The `.es` and `.bzd` files contain pairs of sentences in Spanish and in the [Chi
 
 The Bribri language has two major orthographies: the Constenla (1998) system, and the Jara (2013) system. Moreover, Bribri writing is not fully standardized, so there is considerable spelling variation between documents. In order to facilitate training, the sentences in the `.bzd` files use an intermediate representation of the orthography. This intermediate representation is meant for use by NLP algorithms; it unifies the existing orthographies but reduces the human readability of the text. If you are going to use the Bribri sentences in print, please convert the intermediate form into human-readable form first. You can do this by using the equivalences in `orthographic-conversion.csv`. You can also use the function `convertToSpelling` in the file `bribri-orthography-conversion.ipynb`.
 
-The sentences in the `dev.bzd` and `test.bzd` files were translated by Franklin Morales. The sentences in the `train.bzd` file were compiled from the sources cited below.
+The sentences in the `.bzd` files were compiled from the sources cited below.
 
 Fuentes / Sources
 ------
