@@ -51,14 +51,14 @@ The sentences in the `.bzd` files were compiled from the sources cited below.
 Fuentes / Sources
 ------
 
-`constenla1998`: Constenla Umaña, A.; Elizondo Figueroa, F.; Pereira Mora, F (1998). Curso Básico de Bribri. San José, Costa Rica: Editorial de la Universidad de Costa Rica.
+`constenla1998`: Constenla Umaña, A.; Elizondo Figueroa, F.; Pereira Mora, F (1998). _Curso Básico de Bribri_. San José, Costa Rica: Editorial de la Universidad de Costa Rica.
 
-`corpusSofía`: Flores Solórzano, Sofía (2017), Corpus oral pandialectal de la lengua bribri. URL http://bribri.net
+`corpusSofía`: Flores Solórzano, Sofía (2017). _Corpus oral pandialectal de la lengua bribri_. URL http://bribri.net
 
-`grammarJara`: Jara Murillo, Carla Victoria (2018). Gramática de la lengua bribri. San José, Costa Rica: EDigital. URL: https://www.lenguabribri.com/gram%C3%A1tica-de-la-lengua-bribri
+`grammarJara`: Jara Murillo, Carla Victoria (2018). _Gramática de la lengua bribri_. San José, Costa Rica: EDigital. URL: https://www.lenguabribri.com/gram%C3%A1tica-de-la-lengua-bribri
 
-`jaraAprendamos`: Jara Murillo, C.; García Segura, A (2013). Se' ttö́ bribri ie - Hablemos en bribri. San José: CONARE - Programa de Regionalización Interuniversitaria. URL: https://www.lenguabribri.com/se-tt%C3%B6-bribri-ie-hablemos-en-bribri.
+`jaraAprendamos`: Jara Murillo, C.; García Segura, A (2013). _Se' ttö́ bribri ie - Hablemos en bribri_. San José: CONARE - Programa de Regionalización Interuniversitaria. URL: https://www.lenguabribri.com/se-tt%C3%B6-bribri-ie-hablemos-en-bribri.
 
-`jara-itte`: Jara Murillo, Carla Victoria (1993). I ttè - Historias bribris. URL: https://www.lenguabribri.com/i-tt%C3%A8-historias-bribris
+`jara-itte`: Jara Murillo, Carla Victoria (1993). _I ttè - Historias bribris_. URL: https://www.lenguabribri.com/i-tt%C3%A8-historias-bribris
 
-`margery`: Margery Peña, Enrique (2013). Diccionario fraseológico Bribri-Español Español-Bribri. San José, Costa Rica: Editorial de la Universidad de Costa Rica.
+`margery`: Margery Peña, Enrique (2013). _Diccionario fraseológico Bribri-Español Español-Bribri_. San José, Costa Rica: Editorial de la Universidad de Costa Rica.
