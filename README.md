@@ -40,11 +40,13 @@ The CSV file has the following columns:
 
 # Bribri-Spanish Sentence Pairs
 
-The `.es` and `.bzd` files contain pairs of sentences in Spanish and in the Chibchan language Bribri, spoken by approximately 3000 people in Southern Costa Rica. If you are going to use the data, please cite the following paper:
+The `.es` and `.bzd` files contain pairs of sentences in Spanish and in the [Chibchan language Bribri](https://en.wikipedia.org/wiki/Bribri_language), spoken by approximately 3000 people in Southern Costa Rica. If you are going to use the data, please cite the following paper:
 
-> Feldman, Isaac & Coto-Solano, Rolando (2020). Neural Machine Translation Models with Back-Translation for the Extremely Low-Resource Indigenous Language Bribri. CoLing.
+> [Feldman, Isaac & Coto-Solano, Rolando (2020). Neural Machine Translation Models with Back-Translation for the Extremely Low-Resource Indigenous Language Bribri. CoLing.](https://www.aclweb.org/anthology/2020.coling-main.351/)
 
-The `dev.bzd` and `test.bzd` files were translated by Franklin Morales. The sentences in the `train.bzd` file were compiled from the sources below. The Bribri language has two major orthographies: the Constenla (1998) and Margery (2013) system, and the Jara system (2013). The sentences in the `.bzd` files use a representation of the orthography meant for use by NLP algorithms, which unifies these two orthographies, but reduces its human readability. If you are going to use the Bribri sentences in print, please convert them using the equivalences in `orthographic-conversion.csv`. You can also use the function DDDd in the XXX file.
+The Bribri language has two major orthographies: the Constenla (1998) and Margery (2013) system, and the Jara system (2013). The sentences in the `.bzd` files use an intermediate representation of the orthography; this intermediate representation is meant for use by NLP algorithms. It unifies the two orthographies, but reduces the human readability of the text. If you are going to use the Bribri sentences in print, please convert them using the equivalences in `orthographic-conversion.csv`. You can also use the function DDDd in the XXX file.
+
+The sentences in the `dev.bzd` and `test.bzd` files were translated by Franklin Morales. The sentences in the `train.bzd` file were compiled from the sources cited below.
 
 Fuentes / Sources
 ------
