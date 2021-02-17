@@ -52,7 +52,7 @@ The sentences in the `.bzd` files were compiled from the sources cited below.
 
 # Pares de oraciones Bribri-Español
 
-Los archivos `.es` and `.bzd` contienen pares de oraciones en español en la [lengua chibcha bribri](https://en.wikipedia.org/wiki/Bribri_language), la cual es hablada por unas 3000 personas en el sur de Costa Rica. Si usted va a usar estos datos, por favor cite el siguiente artículo:
+Los archivos `.es` and `.bzd` contienen pares de oraciones en español y en la [lengua chibcha bribri](https://en.wikipedia.org/wiki/Bribri_language), la cual es hablada por unas 3000 personas en el sur de Costa Rica. Si usted va a usar estos datos, por favor cite el siguiente artículo:
 
 > Feldman, I., & Coto-Solano, R. (2020, Diciembre). [_Neural Machine Translation Models with Back-Translation for the Extremely Low-Resource Indigenous Language Bribri_](https://www.aclweb.org/anthology/2020.coling-main.351/). En Proceedings of the 28th International Conference on Computational Linguistics (pp. 3965-3976).
 
