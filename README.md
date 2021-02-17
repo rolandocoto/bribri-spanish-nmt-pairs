@@ -58,7 +58,7 @@ Los archivos `.es` and `.bzd` contienen pares de oraciones en español y en la [
 
 La lengua bribri tiene dos ortografías principales: El sistema de [Constenla (1998)](http://www.editorial.ucr.ac.cr/lenguas/item/2341-curso-basico-de-bribri.html) y el sistema de [Jara (2013)](https://www.lenguabribri.com/se-tt%C3%B6-bribri-ie-hablemos-en-bribri). A pesar de la existencia de estos dos estándares, la mayoría de los escritos no usan una ortografía estandarizada, y de hecho hay una considerable cantidad de variación en los documentos existentes. Para facilitar el entrenamiento, las oraciones en los archivos `.bzd` usan una representación intermedia de la ortografía. Esta representación intermedia está hecha para usarse con algoritmos de procesamiento de lenguaje natural. Está hecha para unificar las ortografías existentes, pero tiene el efecto secundario de reducir la legibilidad del texto.
 
-Si usted va a usar una de estas oraciones en un documento, por favor conviértala a una forma legible por humanos. Puede ser hace utilizando las equivalencias en el archivo `orthographic-conversion.csv`. Usted también puede usar la función `convertToHumanSpelling` en el archivo `bribri-orthography-conversion.ipynb`.
+Si usted va a usar una de estas oraciones en un documento, por favor conviértala a una forma legible por humanos. Puede hacerlo utilizando las equivalencias en el archivo `orthographic-conversion.csv`. Usted también puede usar la función `convertToHumanSpelling` en el archivo `bribri-orthography-conversion.ipynb`.
 
 Las oraciones en los archivos `.bzd` vienen de las fuentes citadas abajo.
 
